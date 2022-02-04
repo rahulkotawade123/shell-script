@@ -30,4 +30,4 @@ done
 salary=$(($totalWorkingHr * $PAY_PER_HOUR));
 
 echo "Emp Salary of month : $salary (Total Working Hour : $totalWorkingHr)"
-x
+
